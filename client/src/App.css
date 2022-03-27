@@ -1,0 +1,16 @@
+.form{
+  display: flex;
+  justify-content: center;
+}
+
+.form .form_style{
+  display: flex ;
+  max-width: 700px ;
+  height: 300px;
+  flex-wrap: wrap;
+  justify-content: space-evenly ;
+}
+
+.form .form_style .form_inp{
+  width: 45%;
+}
